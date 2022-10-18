@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        
+
+        {
+            "type": "chrome",
+            "name": "http://GemfireXD.",
+            "request": "launch",
+            "url": "http://GemfireXD."
+        }
+    ]
+}
